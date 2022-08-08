@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew Baltzer!
-- 👀 I’m an apsiring Automated Engineer.
+- 👀 I’m an apsiring Software Engineer.
 - 🌱 I’m currently learning API testing for websites and mobile devices.
 - 💞️ I’m looking to collaborate on any and all API projects to broaden my understanding.
 - 📫 You can reach me at baltzer.matt@gmail.com
